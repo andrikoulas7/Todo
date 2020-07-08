@@ -1,0 +1,19 @@
+h2{
+    font-size: 3em;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 35px;
+    margin: 0;
+    text-align: justify;
+}
+
+body{
+    background-color: lightsteelblue;
+    text-align: justify;
+}
+
+li{
+    text-align: justify;
+}
+li input[type="checkbox"]{
+    width: 30px;
+}
